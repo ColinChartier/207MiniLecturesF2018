@@ -7,5 +7,6 @@ https://docs.google.com/presentation/d/1gwOGjteJa6iiTY-ZiTWNrz4ZB0kfvfk-fOxZHSr8
 
 # Lecture 3 - advanced git
 https://docs.google.com/presentation/d/1CXQUwNrswupqUBoLAVo7drDy6TvLAvEF-E20a3vnwII/edit#slide=id.p
+# Lecture 4
 http://bit.do/csc207
 
