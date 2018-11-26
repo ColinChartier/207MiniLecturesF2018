@@ -16,3 +16,6 @@ https://docs.google.com/presentation/d/1a05Nbf2eJR1p6hZHG8bOkz7Uz14eEZj6ZfLQ_E_T
 
 # Lecture 6 - Gradle, Mockito, Code coverage
 https://docs.google.com/presentation/d/1w2UwirzjHmbLNyAG9FagoxRKpe3kvX1GPRrN6giJ_UQ/edit?usp=sharing
+
+# Lecture 7 - Reflection, singleton testing
+https://docs.google.com/presentation/d/1kKtPgv-AZMX9RvAvOCbltGdofLPxT43ovbbpb71-hOI/edit?usp=sharing
